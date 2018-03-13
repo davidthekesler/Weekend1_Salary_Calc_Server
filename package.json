@@ -1,0 +1,22 @@
+{
+  "name": "weekend1_salary_calc_server",
+  "version": "1.0.0",
+  "description": "weekend1_salary_calc_server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidthekesler/Weekend1_Salary_Calc_Server.git"
+  },
+  "author": "David Kesler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidthekesler/Weekend1_Salary_Calc_Server/issues"
+  },
+  "homepage": "https://github.com/davidthekesler/Weekend1_Salary_Calc_Server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
