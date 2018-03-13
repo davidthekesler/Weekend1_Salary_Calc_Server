@@ -12,6 +12,11 @@
        node_modules/
        .DS_STORE
        *.log
-         
-    - git commit
+    - change package.json to have a "start" line in scripts:     
+        "start":"node server/server.js"
+
+    - git add, git commit
+    - to run server, now you can type "npm start" in the terminal window of vscode
     - make server
+
+    - "control+C" to end
